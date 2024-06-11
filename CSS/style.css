@@ -1,2 +1,139 @@
+.one{
+    background-color: white;
+    height: 100px;
+    width: 100%;
+}
+
+.three{
+    height: 50px;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+.four{
+    display: flex;
+    position: absolute;
+    left: 440px;
+    top: 50px;
+}
+
+.link{
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 25px;
+    color: black;
+    border:  none;
+}
+
+.link:hover{
+    color: red;
+}
+
+.but{
+    position: absolute;
+    right: 130px;
+    top: 35px;
+}
+
+.abhi{
+    height: 50px;
+    width: 150px;
+    background-color: white;
+    font-size: 18px;
+    border: 2px solid blue;
+    border-radius: 50px;
+  
+}
+
+.abhi:hover{
+    background-color: red;
+    border: 2px solid red;
+}
+
+.five{
+    background-image: url(banner.png);
+    height: 600px;
+    width: 100%;
+}
+
+.pic{
+    position: absolute;
+    bottom: 10px;
+    left: 100px;
+}
+
+.ture{
+    height: 500px;
+    width: 500px;
+}
+
+.six{
+    position: absolute;
+    top: 150px;
+    right: 150px;
+}
+
+.para{
+    font-size: 22px;
+    color: rgb(85, 84, 84);
+}
+.para1{
+    font-size: 35px;
+    font-weight: 900;
+  margin-bottom: 8px;
+  margin-top: 0px;
+}
+
+.para2{
+    font-size: 35px;
+    font-weight: 900;
+  margin-top: -9px;
+}
+
+.text{
+   height: 50px;
+   width: 700px;
+   border: 2px solid white;
+   border-radius: 50px;
+   font-size: 15px;
+   color: rgb(85, 84, 84);
+}
+
+.para3{
+    font-size: 25px;
+    color: rgb(85, 84, 84);
+    margin-top: 30px;
+    margin-bottom: -19px;
+}
+
+.para4{
+    font-size: 25px;
+    color: rgb(85, 84, 84);
+}
+
+.para5{
+    font-size: 50px;
+    font-weight: 900;
+    margin-top: -12px;
+}
+
+.para6{
+    font-size: 50px;
+    font-weight: 900;
+    margin-left: 40px;
+}
+
+.put{
+    position: absolute;
+    right: 320px;
+    bottom: 20px;
+}
+
+.para7{
+margin-top: -15px;
+color: yellow;
+}
+
+
 
 
